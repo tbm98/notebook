@@ -14,5 +14,6 @@
 
 ## Deployment
 
+* [Deploy android app](deployment/deploy-android-app.md)
 * [Deploy ios app](deployment/deploy-ios-app/README.md)
   * [Use icon generator tool](deployment/deploy-ios-app/use-icon-generator-tool.md)
