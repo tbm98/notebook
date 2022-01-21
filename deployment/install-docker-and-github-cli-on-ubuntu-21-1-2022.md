@@ -24,4 +24,9 @@ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
 sudo apt-add-repository https://cli.github.com/packages
 sudo apt update
 sudo apt install gh
+
+#install pip3
+sudo apt install python3-pip
+#install docker-compose
+pip3 install docker-compose
 ```
