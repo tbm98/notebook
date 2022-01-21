@@ -21,3 +21,4 @@
   * [Prepare](deployment/deploy-server-laravel-using-docker-on-ubuntu/prepare.md)
 * [Install Nginx and Let’s Encrypt with Docker – Ubuntu 20.04](deployment/install-nginx-and-lets-encrypt-with-docker-ubuntu-20.04.md)
 * [Install Docker and Github cli on Ubuntu (21/1/2022)](deployment/install-docker-and-github-cli-on-ubuntu-21-1-2022.md)
+* [CircleCI ssh to Ubuntu server to deploy](deployment/circleci-ssh-to-ubuntu-server-to-deploy.md)
